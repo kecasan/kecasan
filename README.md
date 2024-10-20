@@ -1,7 +1,7 @@
 ## Saudações humano 🖖
 
 - 🔭 No momento trabalho como Técnico Suporte I
-- 🌱 Python e Django, JavaScript, SQL, HTML e CSS  
+- 🌱 Python, JavaScript, SQL, HTML e CSS  
 - 😄 Ela/Dela
 
 
