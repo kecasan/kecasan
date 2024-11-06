@@ -10,6 +10,8 @@
   <img align="center" alt="nk-django" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
   <img align="center" alt="nk-GitHub" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="nk-JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="nk-JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+   <img align="center" alt="nk-JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
 </div>
 
 ## 📊 Meus Status no GitHub
