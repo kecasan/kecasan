@@ -17,6 +17,7 @@
 ## 📊 Meus Status no GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kecasan&show_icons=true&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats-six-ruddy.vercel.app?user=kecasan&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## 🚀 Meus Projetos
 
