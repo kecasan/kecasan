@@ -26,3 +26,4 @@
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
+![](https://komarev.com/ghpvc/?username=kecasan&color=blue)
