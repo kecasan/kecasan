@@ -4,7 +4,7 @@
 - 🌱 Python, JavaScript, SQL, HTML e CSS  
 - 😄 Ela/Dela
 
-
+## Minhas Principais Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="nk-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="nk-django" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg">
@@ -12,6 +12,12 @@
   <img align="center" alt="nk-JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nk-JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
    <img align="center" alt="nk-JavaScript" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+</div>
+
+## Minhas redes
+<div>
+<a href="mailto:kecasantos323@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/%C3%A9rica-santos-bbba3b248/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
 </div>
 
 ## 📊 Meus Status no GitHub
@@ -26,4 +32,4 @@
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
-![](https://komarev.com/ghpvc/?username=kecasan&color=blue)
+
