@@ -33,3 +33,5 @@
   </a>
 </div>
 
+![Snake animation](https://github.com/kecasan/kecasan/blob/output/github-contribution-grid-snake.svg)
+
