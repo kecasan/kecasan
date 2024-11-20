@@ -10,10 +10,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      # Atualizado para checkout@v3
       - uses: actions/checkout@v3
 
-      # Repositorio que será utilizado para gerar os arquivos.
+      # Repositório atualizado para a versão mais recente
       - uses: Platane/snk@v2.0.0
         id: snake-gif
         with:
@@ -23,7 +23,7 @@ jobs:
 
       - run: git status
 
-      # Para as atualizações.
+      # Atualização manual de mudanças
       - name: Push changes
         run: |
           git config user.name "github-actions[bot]"
@@ -34,6 +34,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Atualização para a versão mais recente do GitHub Pages Action
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
