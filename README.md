@@ -31,7 +31,7 @@
 
 ## 🚀 Meus Projetos
 
-<div style="text-align: center;" align="center">
+<div style="text-align: center;">
   <a href="https://github.com/kecasan/Tudo" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
