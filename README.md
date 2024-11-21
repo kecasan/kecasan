@@ -33,5 +33,5 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/kecasan/kecasan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kecasan/kecasan/blob/output/github-contribution-grid-snake.svg)<br>
 ![](https://visitcount.itsvg.in/api?id=kecasan&icon=0&color=0)
